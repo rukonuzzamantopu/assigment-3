@@ -60,5 +60,5 @@ It is fully **responsive**, adapting seamlessly across devices — from mobile s
 Clone the repository and open in your editor:
 
 ```bash
-[https://github.com/rukonuzzamantopu/assigment-3]
+https://github.com/rukonuzzamantopu/assigment-3
 
