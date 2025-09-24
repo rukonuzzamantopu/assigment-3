@@ -10,7 +10,7 @@ This project ensures clean design, reusable components, and seamless performance
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live Project](https://your-live-link.com)
+🔗 [View Live Project](https://rukonuzzamantopu.github.io/assigment-3/)
 
 ---
 
@@ -60,5 +60,5 @@ It is fully **responsive**, adapting seamlessly across devices — from mobile s
 Clone the repository and open in your editor:
 
 ```bash
-[git clone https://github.com/your-username/your-repo-name.git](https://github.com/rukonuzzamantopu/assigment-3)
+[https://github.com/rukonuzzamantopu/assigment-3]
 
