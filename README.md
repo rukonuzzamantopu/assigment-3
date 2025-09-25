@@ -41,7 +41,7 @@ It is fully **responsive**, adapting seamlessly across devices — from mobile s
 <img width="1908" height="862" alt="image" src="https://github.com/user-attachments/assets/3b4c40c4-52a8-4301-bf8b-6313d46adab0" />
 <img width="1902" height="834" alt="image" src="https://github.com/user-attachments/assets/29c2be4b-62cb-472b-a07b-cabaa3e84b3a" />
 <img width="1917" height="861" alt="image" src="https://github.com/user-attachments/assets/b9a71b8f-8747-43a5-ac46-01fc2eb1f23f" />
-<img width="1891" height="864" alt="image" src="https://github.com/user-attachments/assets/1d274704-6a69-4a48-be9e-fd9d0853a17a" />
+
 
 ---
 ## Mobile phone 
